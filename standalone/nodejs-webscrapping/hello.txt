@@ -1,0 +1,15 @@
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+'Accept-Encoding': 'gzip, deflate, br'
+'Accept-Language': 'en-US,en;q=0.9'
+'Cache-Control': 'max-age=0'
+Cookie:__rd=; _ga=GA1.1.820815306.1701161008; _sharedid=96dab13c-8786-4c9e-b90b-8123e90272c3; ASP.NET_SessionId=wc1ru5rwdll4ksneikslufyp; k_token=pB3RSWE6w9LfPBw5HfyXRQSGhoSUXwX5nEEPgr%2fZKuYWrKOX7giyfT%2bUqSLeIl0pK3sxtSQPm4X22OXQhwuu%2fgYUoHBGc57A2bwGNUF5lZXapXFszUx8NMqGiNRSd8pErsjTtg0Q%2bJmqxYxpuZYv890C0WEocdyq6nq0rFBGNzKR%2faCIAV%2fVRAfKk2WyPkD6jbgZwxBMUZJOEKjP%2bHs9jA%3d%3d; dom3ic8zudi28v8lr6fgphwffqoz0j6c=8cba8a47-e10c-4824-81f3-f0c57843bf61%3A2%3A1; ui=pc; _ga_193MCXT9RF=GS1.1.1701174294.2.1.1701174383.0.0.0; cto_bundle=oUdJkl9VZ3dMJTJCT21jOVZ4Q09IRDVDUG16UUtRUXZiM1A1TkQwJTJCQkpsY1NKOTlvZGU1cCUyRkFZcE0lMkZ5WXlXZDE5UUNJbEp1bHFOaXdmS0hsTlRJSTJYWjgyRWdseTdINTA3ZklDeVVUM0lUV09uZkd2c0k5JTJCeUtwVGxpTW5GdUx4eWJxWmE; cto_bidid=1OpFcF9tQVdpNDdhc1BKTENIMiUyRjFCY2x3Wm43MUNsaXdrVVdHY0RodlROV3lrdCUyQkROakNtaFU1MTA5U05VVU5Ma1BlU2IwNlNLa01RME90ZUpZbkdNalNaaHclM0QlM0Q; _pbjs_userid_consent_data=3289732325049450; fpestid=K1Gy0ba1wyCY-0phZEkeIfLQuGz9SOwup1hQcGcPjWOkmKdorF6Lg2jZVuQn5RYf_khW1Q; _ga_ZPY5JKR06J=GS1.1.1701174295.2.1.1701174428.0.0.0
+Referer: https://kissasian.lu/Search/Drama
+Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+'Sec-Ch-Ua-Mobile': '?0'
+'Sec-Ch-Ua-Platform': "Windows"
+'Sec-Fetch-Dest': 'document'
+'Sec-Fetch-Mode': 'navigate'
+'Sec-Fetch-Site': 'same-origin'
+'Sec-Fetch-User': '?1'
+'Upgrade-Insecure-Requests': '1'
+'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
