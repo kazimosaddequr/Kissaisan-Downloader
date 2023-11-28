@@ -8,16 +8,20 @@ const createWindow = () => {
     })
   
     // win.loadFile('index.html')
-    win.loadURL('https://kissasian.lu/Drama/Heaven')
+    win.loadURL('https://kissasian.lu/Mobile/SwitchToMobile')
+    // window.setTimeout
+    win.loadURL('https://kissasian.lu/Drama/Heaven/Drama/Heaven/Episode-1?id=48342&s=mp')
   }
 
   app.whenReady().then(() => {
     createWindow()
     console.log('Hello')
     (async () => {
-        const url = 'https://www.mp4upload.com/zzxtedbq0133';
-        const scrap = await new MP4UploadScraper().scrap(url);
-        console.log(scrap.success);
+        // await win.loadURL('https://kissasian.lu/Mobile/SwitchToMobile');
+        // await win.loadURL('https://kissasian.lu/Drama/Heaven/Drama/Heaven/Episode-1?id=48342&s=mp')
+        // const url = 'https://www.mp4upload.com/zzxtedbq0133';
+        // const scrap = await new MP4UploadScraper().scrap(url);
+        // console.log(scrap.success);
         // if (scrap.success)
             // console.log(scrap.data.sources);
     })();
