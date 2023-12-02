@@ -1,3 +1,6 @@
 standalone
 experiment
 *.mp4
+video
+*.mp4
+*.mp3
