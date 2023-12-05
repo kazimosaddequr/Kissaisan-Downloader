@@ -4,3 +4,5 @@ experiment
 video
 *.mp4
 *.mp3
+runner
+micropython installer
